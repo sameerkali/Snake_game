@@ -1,4 +1,5 @@
 # Snake Game
+april 10 2k23
 
 This is a classic Snake Game built using HTML, CSS, and JavaScript. The game allows the player to control a snake on a board and eat food to grow in length. The game ends when the snake collides with the walls or with its own tail.
 
